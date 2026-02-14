@@ -7,10 +7,10 @@ TerrainLayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Momo_OTW_Grass
-  m_DiffuseTexture: {fileID: 2800000, guid: a137dcf90210aba489a49ba1d2837a20, type: 3}
+  m_DiffuseTexture: {fileID: 2800000, guid: d9b71d084d5f5034dbce3a9f0427f9ee, type: 3}
   m_NormalMapTexture: {fileID: 0}
   m_MaskMapTexture: {fileID: 0}
-  m_TileSize: {x: 50, y: 50}
+  m_TileSize: {x: 100, y: 100}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
   m_Metallic: 0
