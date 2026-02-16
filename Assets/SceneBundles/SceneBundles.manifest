@@ -1,7 +1,0 @@
-ManifestFileVersion: 0
-CRC: 2011804721
-AssetBundleManifest:
-  AssetBundleInfos:
-    Info_0:
-      Name: examplescene.unity3d
-      Dependencies: {}
