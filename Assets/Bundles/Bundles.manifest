@@ -1,7 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1673585221
+UnityVersion: 6000.3.23f1
+CRC: 1748220921
+HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: exampleprefab
+      Name: examplescene
       Dependencies: {}
